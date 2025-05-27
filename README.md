@@ -15,3 +15,6 @@ Make sure you have Python installed. Then run the script from your terminal:
 
 ```bash
 python3 app.py
+```
+
+You’ll be prompted to enter how many questions you’d like to answer. Input your answers and get your final score at the end!
